@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">listAdapters</string>
+    <string name="usuario">Felipe</string>
+    <string name="mensaje">Bienvenido</string>
+    <string name="hora"></string>
+
+</resources>
